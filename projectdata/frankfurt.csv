@@ -1,0 +1,48 @@
+Nr.;Stadtteil;Fläche[3];Einwohner;Weiblich;Männlich;Deutsche;Ausländer;Ausländer;Einwohner;Ortsbezirk;Stadtteil;Vorherige Zugehörigkeit
+;;in km²;;;;;;in Prozent;je km²;;seit;
+1;Altstadt;0,507;4.151;2.015;2.136;2.604;1.547;37,3;8187;01 Innenstadt I;1866[Anm. 1];Freie Stadt Frankfurt
+2;Innenstadt;1,491;6.605;3.088;3.517;3.514;3.091;46,8;4430;01 Innenstadt I;1866[Anm. 2];Freie Stadt Frankfurt
+3;Bahnhofsviertel;0,543;3.561;1.378;2.183;1.638;1.923;54;6558;01 Innenstadt I;1866[Anm. 3];Freie Stadt Frankfurt
+4;Westend-Süd;2,493;18.822;9.593;9.229;13.655;5.167;27,5;7550;02 Innenstadt II;1866[Anm. 3];Freie Stadt Frankfurt
+5;Westend-Nord;1,632;10.198;5.321;4.877;7.214;2.984;29,3;6249;02 Innenstadt II;1866[Anm. 3];Freie Stadt Frankfurt
+6;Nordend-West;3,1;30.518;15.625;14.893;23.744;6.774;22,2;9845;03 Innenstadt III;1866[Anm. 3];Freie Stadt Frankfurt
+7;Nordend-Ost;1,532;23.028;11.947;11.081;17.863;5.165;22,4;15031;03 Innenstadt III;1866[Anm. 3];Freie Stadt Frankfurt
+8;Ostend;5,561;29.171;14.980;14.191;20.802;8.369;28,7;5246;04 Bornheim/Ostend;1866[Anm. 3];Freie Stadt Frankfurt
+9;Bornheim;2,786;30.533;16.110;14.423;23.214;7.319;24;10959;04 Bornheim/Ostend;1877;Stadtkreis Frankfurt am Main[Anm. 4]
+10;Gutleutviertel;2,2;6.924;3.027;3.897;3.976;2.948;42,6;3147;01 Innenstadt I;1866[Anm. 3];Freie Stadt Frankfurt
+11;Gallus;4,112;40.250;18.866;21.384;23.563;16.687;41,5;9788;01 Innenstadt I;1866[Anm. 3];Freie Stadt Frankfurt
+12;Bockenheim;8,031;40.792;20.482;20.310;27.441;13.351;32,7;5079;02 Innenstadt II[Anm. 5];1895;Landkreis Frankfurt (Kreisstadt)
+13;Sachsenhausen-Nord;4,232;32.484;16.626;15.858;24.402;8.082;24,9;7676;05 Süd;1866[Anm. 6];Freie Stadt Frankfurt
+14;Sachsenhausen-Süd;34,711;28.440;14.682;13.758;21.405;7.035;24,7;819;05 Süd;1866[Anm. 6];Freie Stadt Frankfurt
+15;Flughafen;20;Daten in Sachsenhausen-Süd enthalten;;;;;;;05 Süd;1866/1977[Anm. 7];Freie Stadt Frankfurt, Landkreis Groß-Gerau, Landkreis Offenbach[4]
+16;Oberrad;2,708;13.517;6.725;6.792;9.083;4.434;32,8;4992;05 Süd;1900;Landkreis Frankfurt[Anm. 4]
+17;Niederrad;3,182;25.557;12.809;12.748;16.370;9.187;35,9;8032;05 Süd;1900;Landkreis Frankfurt[Anm. 4]
+18;Schwanheim;17,716;20.622;10.569;10.053;15.743;4.879;23,7;1164;06 West[Anm. 8];1928;Kreis Höchst
+19;Griesheim;5,1;24.028;11.121;12.907;13.994;10.034;41,8;4711;06 West;1928;Kreis Höchst
+20;Rödelheim;4,66;18.865;9.478;9.387;12.516;6.349;33,7;4048;07 Mitte-West;1910;Landkreis Frankfurt
+21;Hausen;1,246;7.458;3.847;3.611;4.853;2.605;34,9;5986;07 Mitte-West;1910[Anm. 4];Landkreis Frankfurt
+22[Anm. 9];Praunheim;5,153;16.524;8.513;8.011;12.059;4.465;27;3207;07 Mitte-West[Anm. 10];1910;Landkreis Frankfurt
+24;Heddernheim;2,514;17.178;9.036;8.142;12.988;4.190;24,4;6833;08 Nord-West;1910;Landkreis Frankfurt
+25;Niederursel;7,425;16.186;8.360;7.826;11.562;4.624;28,6;2180;08 Nord-West;1910[Anm. 11];Landkreis Frankfurt
+26;Ginnheim;2,695;16.647;8.693;7.954;12.445;4.202;25,2;6177;09 Mitte-Nord;1910;Landkreis Frankfurt
+27;Dornbusch;2,383;18.569;9.840;8.729;14.427;4.142;22,3;7792;09 Mitte-Nord;1910[Anm. 12];Landkreis Frankfurt
+28;Eschersheim;3,233;15.225;7.886;7.339;11.932;3.293;21,6;4709;09 Mitte-Nord;1910;Landkreis Frankfurt
+29;Eckenheim;2,255;14.395;7.424;6.971;10.183;4.212;29,3;6384;10 Nord-Ost;1910;Landkreis Frankfurt
+30;Preungesheim;3,682;15.567;7.919;7.648;11.170;4.397;28,2;4228;10 Nord-Ost;1910;Landkreis Frankfurt
+31;Bonames;1,372;6.372;3.266;3.106;4.603;1.769;27,8;4644;10 Nord-Ost;1910;Landkreis Frankfurt[Anm. 4]
+32;Berkersheim;3,185;3.817;1.934;1.883;3.109;708;18,5;1198;10 Nord-Ost;1910;Landkreis Frankfurt
+33;Riederwald;1,074;4.991;2.544;2.447;3.577;1.414;28,3;4647;11 Ost;1866/1900[Anm. 13];Freie Stadt Frankfurt, Landkreis Frankfurt (Seckbach)
+34;Seckbach;7,997;10.748;5.376;5.372;7.411;3.337;31;1344;11 Ost;1900;Landkreis Frankfurt
+35;Fechenheim;6,985;17.546;8.344;9.202;10.011;7.535;42,9;2512;11 Ost;1928;Landkreis Hanau
+36;Höchst;4,597;15.730;7.571;8.159;9.182;6.548;41,6;3422;06 West;1928[5];Kreis Höchst (Kreisstadt)
+37;Nied;3,707;19.780;9.739;10.041;12.411;7.369;37,3;5336;06 West;1928;Kreis Höchst
+38;Sindlingen;3,968;9.110;4.461;4.649;6.158;2.952;32,4;2296;06 West;1928[Anm. 14];Stadt Höchst am Main
+39;Zeilsheim;5,467;12.489;6.188;6.301;8.753;3.736;29,9;2284;06 West;1928[Anm. 14];Stadt Höchst am Main
+40;Unterliederbach;6,021;17.020;8.463;8.557;11.535;5.485;32,2;2827;06 West;1928[Anm. 14];Stadt Höchst am Main
+41;Sossenheim;5,919;16.247;8.178;8.069;10.460;5.787;35,6;2745;06 West;1928;Kreis Höchst
+42;Nieder-Erlenbach;8,367;4.721;2.390;2.331;4.059;662;14;564;13 Nieder-Erlenbach;1972[6];Landkreis Friedberg[Anm. 4]
+43;Kalbach-Riedberg;6,581;20.756;10.529;10.227;15.976;4.780;23;3154;12 Kalbach-Riedberg;1972[7];Obertaunuskreis
+44;Harheim;4,837;4.935;2.515;2.420;4.266;669;13,6;1020;14 Harheim;1972[6];Landkreis Friedberg
+45;Nieder-Eschbach;6,348;11.453;5.905;5.548;8.803;2.650;23,1;1804;15 Nieder-Eschbach;1972[6];Landkreis Friedberg
+46;Bergen-Enkheim;12,601;18.074;9.300;8.774;14.473;3.601;19,9;1434;16 Bergen-Enkheim;1977[8];Main-Kinzig-Kreis
+47;Frankfurter Berg;2,399;8.244;4.154;4.090;6.080;2.164;26,2;3436;10 Nord-Ost;1910[Anm. 15];Landkreis Frankfurt[Anm. 4]
