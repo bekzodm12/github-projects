@@ -87,7 +87,6 @@ GET '/categories'
 '5' : "Entertainment",
 '6' : "Sports"}
 
-```
 GET '/questions'
 - Fetches a dictionary of questions, total number of questions, categories and current category, which correspond to the key of a JSON object
 - Request Arguments: page number
@@ -264,6 +263,8 @@ Here is an example of response body for category id=1:
   },
   "success": true
 }
+
+```
 
 
 
